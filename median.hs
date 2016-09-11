@@ -1,5 +1,5 @@
 import System.Environment (getArgs)
-import LearningDataAnalysis02
+import LearningDataAnalysis01
 main :: IO ()
 main = do
 	values <- getArgs
